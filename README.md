@@ -1,3 +1,12 @@
+
+</div>
+
+<div align="center">
+
+![:name](https://count.getloli.com/@aishit?name=aishit&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
+</div>
+
 # AI造屎插件
 
 ## 简介
